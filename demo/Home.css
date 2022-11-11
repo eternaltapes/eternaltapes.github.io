@@ -9,7 +9,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 658px;
-  background-image: url("images/6591d5bd53845c2a50eecb22fce1ac39fe776504e311bbd865efd346f05ab7833ae98f1a288506273dd946ba5b2800530018e9448268accb770feb_1280.jpg");
+  background-image: url("images/4b3bc099d39a548aa257e72064b7a2098dc1ce75eb3ea59af0524baba94a4dbacf4a66c6f33f053970052b57065f0801f6cd14da7f2477c272c505_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -26,7 +26,6 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 4.5rem;
   margin: 174px 186px 0 0;
 }
 
@@ -52,6 +51,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
     margin-right: 86px;
   }
 
